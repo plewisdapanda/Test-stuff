@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+}
+
+
+/* Navigation */
+
+.menu {
+  padding-right: 2.5em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+  background-color: gray;
+}
+
+li {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  display: inline;
+  padding-left: 2em;
+}
+
+li:hover {
+  font-size: 1.75em;
+  display: inline;
+  padding-left: 2em;
+  color: white;
+}
+
+
+/* Home header */
+
+.hero-banner {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #24BAB5;
+  padding: 2em 0em;
+}
+
+.hero-banner h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 3em;
+}
+
+
+/* Home Content */
+
+.home-content {
+  text-align: center;
+  background-color: red;
+}
+
+.home-content p {
+  padding-top: 2em;
+}
